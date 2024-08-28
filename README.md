@@ -1,4 +1,4 @@
 # student.demo
-This is my Git Repository.
+This is my first Git Repository.
 <br>
 Author-sneha jojan
